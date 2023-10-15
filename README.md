@@ -1,7 +1,9 @@
-# Master of Technology in Artificial Intelligence
+## Master of Technology in Artificial Intelligence
 
-## Mini Project 
-### HATE SPEECH DETECTION IN MEMES USING MULTIMODEL DEEP LEARNING
+### Mini Project 
+#### HATE SPEECH DETECTION IN MEMES USING MULTIMODEL DEEP LEARNING
+
+**Abstract**
 
 Detection of hate speech from multi modal data is major issue for the single model deep
 learning algorithms,especially from social media memes.Memes contains both text and
@@ -14,8 +16,10 @@ catenation model which concatenates text features and images feature from Text m
 and Image model respectively.And we applied hyper parameter tuning for getting best
 parameters for proposed concatenation model.
 
-## Main Thesis
-### ABSTRACTIVE TEXT SUMMARIZATION USING TRANSFORMER MODELS
+### Main Thesis
+#### ABSTRACTIVE TEXT SUMMARIZATION USING TRANSFORMER MODELS
+
+**Abstract**
 
 There is a significant growth of textual data in digital form in today’s technology period,
 and it is constantly multiplying. Using efficient systems is required when dealing with
